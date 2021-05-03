@@ -1,5 +1,6 @@
 site_name: Learn k8s
-site_url: 
+site_url: https://einarvelez.github.io/learn-k8s/
+site_author: Einar Guisado
 repo_name: einarvelez/learn-k8s
 repo_url: https://github.com/einarvelez/learn-k8s
 
